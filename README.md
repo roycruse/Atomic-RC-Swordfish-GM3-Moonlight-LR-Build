@@ -1,3 +1,3 @@
-My attempt at cramming alot of stuff in a not giant plane :/
+My attempt at cramming alot of stuff into a not giant plane :/
 
 here goes.....
