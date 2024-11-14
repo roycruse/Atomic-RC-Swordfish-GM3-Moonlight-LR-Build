@@ -5,5 +5,11 @@ here goes.....
 
 Hardware List
 
-* Atomic RC Swordfish KIT + PNP Parts
-* 
+* Atomic RC Swordfish Kit + PNP Parts
+* Caddx GM3 Gimbal
+* Walksnail Moonlight Kit
+* Matek F743 Slim v3 Flight Controller
+* Matek GPS/Compass
+* Matek Airspeed Sensor
+* Matek Hall Current Sensor
+* Matek Servo PDB
